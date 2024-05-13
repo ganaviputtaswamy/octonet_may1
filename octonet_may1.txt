@@ -1,0 +1,24 @@
+<h1 style="text-align:center;">Euro School</h1>
+
+
+<div style="text-align:center;margin-top:40px;">
+<a style="padding-right:30px;" href="octonet_may1.html">Home</a>
+<a style="padding-right:30px;" href="about.html">About</a>
+<a style="padding-right:30px;"href="Services.html">Services</a>
+</div>
+
+<h1 style="text-align:center;">Wings with Knowledge</h1>
+
+<p style="text-align:center;""line-height: 2.5;""margin-bottom: 20px;">The youngsters glowing root from our home.<br>Every students are cared as a chlidren without any partiallity.<br>All the childrens are trained well with present and long lasting adventures skills.<br>Everyone are welcomed to our school.</p> 
+
+<div style="text-align:center;"><a style="font-size:20px;background-color: red;padding-right: 20px 15px 20px 15px;color:white;"
+href="https://www.geeksforgeeks.org/">Read more</a></div>
+
+<hr style="width:300;">
+
+<div style="text-align:centre;"><img style="width:40%"src="g2.png">
+
+
+
+
+
